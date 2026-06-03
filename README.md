@@ -157,7 +157,7 @@ Seven full years of hostel life — discipline by day, legendary masti by night.
 ![Followers](https://img.shields.io/github/followers/aashishbharti04?style=for-the-badge&logo=github&color=blueviolet&labelColor=181717)
 ![Stars](https://img.shields.io/github/stars/aashishbharti04?style=for-the-badge&logo=github&color=ff69b4&labelColor=181717)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aashishbharti04&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aashishbharti04&theme=radical&hide_border=true&v=2)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aashishbharti04&theme=react-dark&hide_border=true&area=true)
 
