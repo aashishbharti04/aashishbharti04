@@ -119,7 +119,12 @@ Three glorious years where I learned that good wifi + curiosity can genuinely ch
 ### 🏫 Jawahar Navodaya Vidyalaya (JNV) — Class 6th to 12th
 `2015 – 2022 · 7 years`
 
-Seven full years of hostel life — discipline by day, legendary masti by night. From Class 6th to 12th I learned maths, science, and the far more important art of surviving mess food and making friends who feel like family. Lights-out rules, midnight talks, morning PT, and a whole childhood of memories. Honestly, JNV raised me as much as it taught me. 🏫 💙💚❤️💛
+Seven full years of hostel life — discipline by day, legendary masti by night. From Class 6th to 12th I learned maths, science, and the far more important art of surviving mess food and making friends who feel like family. Lights-out rules, midnight talks, morning PT, and a whole childhood of memories. Honestly, JNV raised me as much as it taught me. 🏫 💙💚❤️💛  
+
+### 🏫 UCCH PRATHMIC VIDYALAYA, Shripur Aruhari, Pratapgarh — Class 1st to 5th
+`2010 – 2015 · 5 years`
+
+The place where everything began. Five years of learning the alphabet, multiplication tables, and the basics of life itself. From morning assemblies and classroom adventures to playground memories and innocent friendships, these were the years that built the foundation for everything that followed. Simple days, caring teachers, and countless little moments that still bring a smile. Looking back, this school didn't just teach me how to study—it taught me how to grow. 🏫 📚 ✏️ 🌱 💙
 
 ---
 
