@@ -4,7 +4,7 @@
 
 ### ✦ HELLO, WORLD — I'M ✦
 
-# 🤖 Aashish Bharti 🚀
+# 🤖 Aashish (Khadush)🚀
 
 ### 🪄 Generative AI Specialist · 🎮 Vibe Coder · 🎬 Content Creator
 
