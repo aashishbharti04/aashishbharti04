@@ -33,7 +33,7 @@
 
 > *Warning: contains 100% real human, 0% boring corporate energy. 😎*
 
-Hi, I'm **Aashish** — officially the **Khadoos** (the grumpy-looking one 😎) of my little squad. **Doraemon, Pandu, Pillu, and Jalebi** are my partners in crime: I bring the serious face, they bring the chaos.
+Hi, I'm **Aashish** — officially the **Khadush** (the grumpy-looking one 😎) of my little squad. **Doraemon, Pandu, Pillu, and Jalebi** are my partners in crime: I bring the serious face, they bring the chaos.
 
 Honestly, I'm just a curious guy who can't sit still. The moment something new pops up in tech, my brain goes *"ooh, what's that?"* and I have to learn it. New tool, new model, new trick? **Count me in.**
 
