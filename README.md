@@ -163,9 +163,17 @@ The place where everything began. Five years of learning the alphabet, multiplic
 ![Followers](https://img.shields.io/github/followers/aashishbharti04?style=for-the-badge&logo=github&color=blueviolet&labelColor=181717)
 ![Stars](https://img.shields.io/github/stars/aashishbharti04?style=for-the-badge&logo=github&color=ff69b4&labelColor=181717)
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aashishbharti04&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishbharti04&layout=compact&theme=radical&hide_border=true" />
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aashishbharti04&theme=radical&hide_border=true&v=2)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aashishbharti04&theme=react-dark&hide_border=true&area=true)
+
+<!-- ===================== TROPHY CASE ===================== -->
+### 🏆 Trophy Case
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=aashishbharti04&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
