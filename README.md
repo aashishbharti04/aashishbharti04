@@ -196,7 +196,7 @@ The place where everything began. Five years of learning the alphabet, multiplic
 <br/>
 
 ### 🐾 The Squad
-*Khadoos 😎 · Doraemon 🤖 · Pandu 🐼 · Pillu 🐶 · Jalebi 🍥*
+*Khadush 😎 · Doraemon 🤖 · Pandu 🐼 · Pillu 🐶 · Jalebi 🍥*
 
 <br/>
 
