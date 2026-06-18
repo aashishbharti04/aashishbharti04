@@ -153,20 +153,13 @@ The place where everything began. Five years of learning the alphabet, multiplic
 | **[One In A Million Award](https://oneinamillionaward.com/)** | Business recognition platform with a four-step nomination-to-winner flow across 12 industries; featured in Forbes, Inc., and Bloomberg. | `Web` `Awards` `Branding` |
 | **[FindBestRates](https://findbestinsurancerates.com/)** | Insurance comparison platform connecting consumers with vetted, licensed local agencies across auto, home, life, health, and business — zero spam. | `Web` `Insurance` `Marketplace` |
 | **[AashRow — SEO Insights](https://myseoinsights.com/AashRow/)** | SEO insights and analytics tool to track keywords, audit pages, and improve search visibility. | `SEO` `Analytics` `Tools` |
-
-### 🧪 Open-Source Apps — *live & free*
-
-> *Privacy-first, zero-dependency web apps. Open the live demo or read the code.* 👇
-
-| 🌟 Project | 📝 What it does | 🏷️ Tags |
-| :--- | :--- | :--- |
-| **[BachatBook](https://aashishbharti04.github.io/bachatbook/)** · [code](https://github.com/aashishbharti04/bachatbook) | Bilingual (English & हिन्दी) personal-finance hub: money-saving ideas, finance book library, SIP/budget calculators, savings challenges & glossary. | `Finance` `Bilingual` `Education` |
-| **[MoneyMap](https://aashishbharti04.github.io/moneymap/)** · [code](https://github.com/aashishbharti04/moneymap) | Private, local-first personal-finance tracker — income, expenses, budgets & visual insights, 100% in your browser. | `Finance` `Local-first` `Charts` |
-| **[WorldClock](https://aashishbharti04.github.io/worldclock/)** · [code](https://github.com/aashishbharti04/worldclock) | World time zones & meeting planner — compare cities and find the best overlapping hours to meet. | `Time Zones` `Productivity` |
-| **[CodeSnap](https://aashishbharti04.github.io/codesnap/)** · [code](https://github.com/aashishbharti04/codesnap) | Turn code into beautiful, shareable images — syntax themes, gradients, one-click PNG export. | `Tool` `Images` `Dev` |
-| **[DevToolbox](https://aashishbharti04.github.io/devtoolbox/)** · [code](https://github.com/aashishbharti04/devtoolbox) | Offline developer utility belt: JSON, JWT, Base64, regex, hash, UUID, diff, cron & more — 12 tools. | `Dev Tools` `Offline` `Privacy` |
-| **[ScholarDesk](https://aashishbharti04.github.io/scholardesk/)** · [code](https://github.com/aashishbharti04/scholardesk) | Local-first PhD research command center — track papers, deadlines & writing progress. | `Local-first` `Research` `Productivity` |
-| **[PhishGuard](https://aashishbharti04.github.io/phishguard/)** · [code](https://github.com/aashishbharti04/phishguard) | Explainable phishing-URL detector — in-browser machine learning with per-prediction explanations. | `ML` `Security` `Explainable AI` |
+| **[BachatBook](https://aashishbharti04.github.io/bachatbook/)** · [code](https://github.com/aashishbharti04/bachatbook) | Bilingual (English & हिन्दी) personal-finance hub: money-saving ideas, finance book library, SIP/budget calculators, savings challenges & glossary. | `Finance` `Bilingual` `Open Source` |
+| **[MoneyMap](https://aashishbharti04.github.io/moneymap/)** · [code](https://github.com/aashishbharti04/moneymap) | Private, local-first personal-finance tracker — income, expenses, budgets & visual insights, 100% in your browser. | `Finance` `Local-first` `Open Source` |
+| **[WorldClock](https://aashishbharti04.github.io/worldclock/)** · [code](https://github.com/aashishbharti04/worldclock) | World time zones & meeting planner — compare cities and find the best overlapping hours to meet. | `Time Zones` `Productivity` `Open Source` |
+| **[CodeSnap](https://aashishbharti04.github.io/codesnap/)** · [code](https://github.com/aashishbharti04/codesnap) | Turn code into beautiful, shareable images — syntax themes, gradients, one-click PNG export. | `Tool` `Images` `Open Source` |
+| **[DevToolbox](https://aashishbharti04.github.io/devtoolbox/)** · [code](https://github.com/aashishbharti04/devtoolbox) | Offline developer utility belt: JSON, JWT, Base64, regex, hash, UUID, diff, cron & more — 12 tools. | `Dev Tools` `Offline` `Open Source` |
+| **[ScholarDesk](https://aashishbharti04.github.io/scholardesk/)** · [code](https://github.com/aashishbharti04/scholardesk) | Local-first PhD research command center — track papers, deadlines & writing progress. | `Research` `Local-first` `Open Source` |
+| **[PhishGuard](https://aashishbharti04.github.io/phishguard/)** · [code](https://github.com/aashishbharti04/phishguard) | Explainable phishing-URL detector — in-browser machine learning with per-prediction explanations. | `ML` `Security` `Open Source` |
 
 ---
 
