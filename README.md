@@ -227,11 +227,6 @@ The place where everything began. Five years of learning the alphabet, multiplic
   <img alt="snake animation eating my contribution graph" src="https://raw.githubusercontent.com/aashishbharti04/aashishbharti04/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<!-- ===================== TROPHY CASE ===================== -->
-### 🏆 Trophy Case
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=aashishbharti04&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
 </div>
 
 ---
