@@ -7,11 +7,8 @@
 
 <!-- ===================== HERO ===================== -->
 
-### ✦ HELLO, WORLD — I'M ✦
 
-# 🤖 Aashish (Khadush)🚀
 
-### 🪄 Generative AI Specialist · 🎮 Vibe Coder · 🎬 Content Creator
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=850&lines=Generative+AI+Specialist+%F0%9F%AA%84;Vibe+Coder+%F0%9F%8E%AE;Content+Creator+%F0%9F%8E%AC;I'm+doing+what+I+love+to+do...+%F0%9F%98%8E%F0%9F%92%99)](https://git.io/typing-svg)
 
