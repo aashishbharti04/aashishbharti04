@@ -1,3 +1,8 @@
+<!-- ===================== ANIMATED HEADER ===================== -->
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7117EA,50:00C9FF,100:92FE9D&height=210&section=header&text=Aashish%20(Khadush)%20%F0%9F%A4%96&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Specialist%20%E2%80%A2%20Vibe%20Coder%20%E2%80%A2%20Content%20Creator&descAlignY=58&descSize=18" alt="header"/>
+</a>
+
 <div align="center">
 
 <!-- ===================== HERO ===================== -->
@@ -7,6 +12,8 @@
 # 🤖 Aashish (Khadush)🚀
 
 ### 🪄 Generative AI Specialist · 🎮 Vibe Coder · 🎬 Content Creator
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=850&lines=Generative+AI+Specialist+%F0%9F%AA%84;Vibe+Coder+%F0%9F%8E%AE;Content+Creator+%F0%9F%8E%AC;I'm+doing+what+I+love+to+do...+%F0%9F%98%8E%F0%9F%92%99)](https://git.io/typing-svg)
 
 > *I create with generative AI — content, images, and video — and vibe-code full products using **Claude, ChatGPT, Gemini, and Ollama.***
 
@@ -25,6 +32,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aashishbharti04&style=for-the-badge&color=blueviolet)
+[![Followers](https://img.shields.io/github/followers/aashishbharti04?label=Followers&style=for-the-badge&color=7117EA&labelColor=181717&logo=github)](https://github.com/aashishbharti04?tab=followers)
 
 </div>
 
@@ -182,6 +190,15 @@ The place where everything began. Five years of learning the alphabet, multiplic
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aashishbharti04&theme=react-dark&hide_border=true&area=true)
 
+<!-- ===================== SNAKE (auto light/dark) ===================== -->
+#### 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashishbharti04/aashishbharti04/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashishbharti04/aashishbharti04/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation eating my contribution graph" src="https://raw.githubusercontent.com/aashishbharti04/aashishbharti04/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <!-- ===================== TROPHY CASE ===================== -->
 ### 🏆 Trophy Case
 
@@ -215,3 +232,6 @@ The place where everything began. Five years of learning the alphabet, multiplic
 **⭐ Serious face, curious mind, big dreams — just doing what I love. 💙**
 
 </div>
+
+<!-- ===================== ANIMATED FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:7117EA&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=22&fontColor=ffffff&animation=twinkling" alt="footer"/>
