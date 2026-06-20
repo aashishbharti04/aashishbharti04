@@ -38,7 +38,11 @@
 
 ---
 
-## 🧑‍🚀 About — *who i am*
+<div align="center">
+  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:7117EA,100:00C9FF&text=About%20Me&fontAlignY=48&desc=who%20i%20am&descSize=16&descAlignY=82&animation=fadeIn" alt="About Me"/>
+</div>
+
+### 🧑‍🚀 *who i am*
 
 > *Warning: contains 100% real human, 0% boring corporate energy. 😎*
 
@@ -54,7 +58,13 @@ On the tech side, I live in the world of **generative AI**: making content, imag
 
 ---
 
-## 🛠️ Skills — *what i use*
+<div align="center">
+  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:00C9FF,100:92FE9D&text=Skills%20%26%20Tools&fontAlignY=48&desc=what%20i%20use&descSize=16&descAlignY=82&animation=fadeIn" alt="Skills"/>
+
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,wordpress,python,js,git&perline=8" alt="tech icons"/></a>
+</div>
+
+### 🛠️ *what i use*
 
 > *Certificates are cute. Shipping real things with AI is cuter. 😏*
 
@@ -96,7 +106,11 @@ On the tech side, I live in the world of **generative AI**: making content, imag
 
 ---
 
-## 💼 Experience — *where i've worked*
+<div align="center">
+  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:7117EA,100:FF6F61&text=Experience&fontAlignY=48&desc=where%20i%27ve%20worked&descSize=16&descAlignY=82&animation=fadeIn" alt="Experience"/>
+</div>
+
+### 💼 *where i've worked*
 
 > *Fewer résumé buzzwords, more actually shipping cool stuff. 🚀*
 
@@ -115,7 +129,11 @@ On the tech side, I live in the world of **generative AI**: making content, imag
 
 ---
 
-## 🎓 Education — *learning*
+<div align="center">
+  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:00C9FF,100:7117EA&text=Education&fontAlignY=48&desc=learning&descSize=16&descAlignY=82&animation=fadeIn" alt="Education"/>
+</div>
+
+### 🎓 *learning*
 
 > *Degrees collected ✅. But honestly? These days I just learn whatever I need, the moment I need it. 📚*
 
@@ -136,7 +154,11 @@ The place where everything began. Five years of learning the alphabet, multiplic
 
 ---
 
-## 🏆 Certifications — *proof (and chai)*
+<div align="center">
+  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:92FE9D,100:00C9FF&text=Certifications&fontAlignY=48&desc=proof%20and%20chai&descSize=16&descAlignY=82&animation=fadeIn" alt="Certifications"/>
+</div>
+
+### 🏆 *proof (and chai)*
 
 > *I can collect degrees & certificates all day... but right now I build everything with AI and my own skills — no certificate required. 😎*
 
@@ -151,7 +173,11 @@ The place where everything began. Five years of learning the alphabet, multiplic
 
 ---
 
-## 🚀 Projects — *selected work*
+<div align="center">
+  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:FF6F61,100:7117EA&text=Projects&fontAlignY=48&desc=selected%20work&descSize=16&descAlignY=82&animation=fadeIn" alt="Projects"/>
+</div>
+
+### 🚀 *selected work*
 
 > *Not slides. Not mockups. Real, live sites you can click right now. 👇*
 
@@ -176,7 +202,9 @@ The place where everything began. Five years of learning the alphabet, multiplic
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:7117EA,100:00C9FF&text=GitHub%20Stats&fontAlignY=48&desc=the%20numbers&descSize=16&descAlignY=82&animation=fadeIn" alt="GitHub Stats"/>
+</div>
 
 <div align="center">
 
@@ -208,7 +236,11 @@ The place where everything began. Five years of learning the alphabet, multiplic
 
 ---
 
-## 📬 Contact — *say hi*
+<div align="center">
+  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:00C9FF,100:92FE9D&text=Get%20In%20Touch&fontAlignY=48&desc=say%20hi&descSize=16&descAlignY=82&animation=fadeIn" alt="Contact"/>
+</div>
+
+### 📬 *say hi*
 
 > *Got an idea? Let's vibe-code it into reality. The form bites less than my mascots. 💬*
 
