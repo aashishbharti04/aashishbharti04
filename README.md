@@ -1,8 +1,3 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7117EA,50:00C9FF,100:92FE9D&height=210&section=header&text=Aashish%20(Khadush)%20%F0%9F%A4%96&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Specialist%20%E2%80%A2%20Vibe%20Coder%20%E2%80%A2%20Content%20Creator&descAlignY=58&descSize=18" alt="header"/>
-</a>
-
 <div align="center">
 
 <!-- ===================== HERO ===================== -->
@@ -38,11 +33,7 @@
 
 ---
 
-<div align="center">
-  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:7117EA,100:00C9FF&text=About%20Me&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="About Me"/>
-</div>
-
-### 🧑‍🚀 *who i am*
+## 🧑‍🚀 About — *who i am*
 
 > *Warning: contains 100% real human, 0% boring corporate energy. 😎*
 
@@ -58,13 +49,11 @@ On the tech side, I live in the world of **generative AI**: making content, imag
 
 ---
 
-<div align="center">
-  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:00C9FF,100:92FE9D&text=Skills%20%26%20Tools&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Skills"/>
+## 🛠️ Skills — *what i use*
 
+<div align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,wordpress,python,js,git&perline=8" alt="tech icons"/></a>
 </div>
-
-### 🛠️ *what i use*
 
 > *Certificates are cute. Shipping real things with AI is cuter. 😏*
 
@@ -106,11 +95,7 @@ On the tech side, I live in the world of **generative AI**: making content, imag
 
 ---
 
-<div align="center">
-  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:7117EA,100:FF6F61&text=Experience&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Experience"/>
-</div>
-
-### 💼 *where i've worked*
+## 💼 Experience — *where i've worked*
 
 > *Fewer résumé buzzwords, more actually shipping cool stuff. 🚀*
 
@@ -129,11 +114,7 @@ On the tech side, I live in the world of **generative AI**: making content, imag
 
 ---
 
-<div align="center">
-  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:00C9FF,100:7117EA&text=Education&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Education"/>
-</div>
-
-### 🎓 *learning*
+## 🎓 Education — *learning*
 
 > *Degrees collected ✅. But honestly? These days I just learn whatever I need, the moment I need it. 📚*
 
@@ -154,11 +135,7 @@ The place where everything began. Five years of learning the alphabet, multiplic
 
 ---
 
-<div align="center">
-  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:92FE9D,100:00C9FF&text=Certifications&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Certifications"/>
-</div>
-
-### 🏆 *proof (and chai)*
+## 🏆 Certifications — *proof (and chai)*
 
 > *I can collect degrees & certificates all day... but right now I build everything with AI and my own skills — no certificate required. 😎*
 
@@ -173,11 +150,7 @@ The place where everything began. Five years of learning the alphabet, multiplic
 
 ---
 
-<div align="center">
-  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:FF6F61,100:7117EA&text=Projects&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Projects"/>
-</div>
-
-### 🚀 *selected work*
+## 🚀 Projects — *selected work*
 
 > *Not slides. Not mockups. Real, live sites you can click right now. 👇*
 
@@ -202,9 +175,7 @@ The place where everything began. Five years of learning the alphabet, multiplic
 
 ---
 
-<div align="center">
-  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:7117EA,100:00C9FF&text=GitHub%20Stats&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="GitHub Stats"/>
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -231,11 +202,7 @@ The place where everything began. Five years of learning the alphabet, multiplic
 
 ---
 
-<div align="center">
-  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:00C9FF,100:92FE9D&text=Get%20In%20Touch&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Contact"/>
-</div>
-
-### 📬 *say hi*
+## 📬 Contact — *say hi*
 
 > *Got an idea? Let's vibe-code it into reality. The form bites less than my mascots. 💬*
 
@@ -255,7 +222,6 @@ The place where everything began. Five years of learning the alphabet, multiplic
 <br/>
 
 <!-- ===================== THE SQUAD ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7117EA,100:00C9FF&height=3&section=header" alt="divider"/>
 
 ### 🐾 The Squad
 
@@ -275,5 +241,8 @@ The place where everything began. Five years of learning the alphabet, multiplic
 
 </div>
 
-<!-- ===================== ANIMATED FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:7117EA&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=22&fontColor=ffffff&animation=twinkling" alt="footer"/>
+<div align="center">
+
+### ⭐ Thanks for visiting — let's build something cool together! ⭐
+
+</div>
