@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
-  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:7117EA,100:00C9FF&text=About%20Me&fontAlignY=48&desc=who%20i%20am&descSize=16&descAlignY=82&animation=fadeIn" alt="About Me"/>
+  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:7117EA,100:00C9FF&text=About%20Me&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="About Me"/>
 </div>
 
 ### 🧑‍🚀 *who i am*
@@ -59,7 +59,7 @@ On the tech side, I live in the world of **generative AI**: making content, imag
 ---
 
 <div align="center">
-  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:00C9FF,100:92FE9D&text=Skills%20%26%20Tools&fontAlignY=48&desc=what%20i%20use&descSize=16&descAlignY=82&animation=fadeIn" alt="Skills"/>
+  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:00C9FF,100:92FE9D&text=Skills%20%26%20Tools&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Skills"/>
 
   <a href="#"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,wordpress,python,js,git&perline=8" alt="tech icons"/></a>
 </div>
@@ -107,7 +107,7 @@ On the tech side, I live in the world of **generative AI**: making content, imag
 ---
 
 <div align="center">
-  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:7117EA,100:FF6F61&text=Experience&fontAlignY=48&desc=where%20i%27ve%20worked&descSize=16&descAlignY=82&animation=fadeIn" alt="Experience"/>
+  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:7117EA,100:FF6F61&text=Experience&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Experience"/>
 </div>
 
 ### 💼 *where i've worked*
@@ -130,7 +130,7 @@ On the tech side, I live in the world of **generative AI**: making content, imag
 ---
 
 <div align="center">
-  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:00C9FF,100:7117EA&text=Education&fontAlignY=48&desc=learning&descSize=16&descAlignY=82&animation=fadeIn" alt="Education"/>
+  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:00C9FF,100:7117EA&text=Education&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Education"/>
 </div>
 
 ### 🎓 *learning*
@@ -155,7 +155,7 @@ The place where everything began. Five years of learning the alphabet, multiplic
 ---
 
 <div align="center">
-  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:92FE9D,100:00C9FF&text=Certifications&fontAlignY=48&desc=proof%20and%20chai&descSize=16&descAlignY=82&animation=fadeIn" alt="Certifications"/>
+  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:92FE9D,100:00C9FF&text=Certifications&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Certifications"/>
 </div>
 
 ### 🏆 *proof (and chai)*
@@ -174,7 +174,7 @@ The place where everything began. Five years of learning the alphabet, multiplic
 ---
 
 <div align="center">
-  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:FF6F61,100:7117EA&text=Projects&fontAlignY=48&desc=selected%20work&descSize=16&descAlignY=82&animation=fadeIn" alt="Projects"/>
+  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:FF6F61,100:7117EA&text=Projects&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Projects"/>
 </div>
 
 ### 🚀 *selected work*
@@ -203,7 +203,7 @@ The place where everything began. Five years of learning the alphabet, multiplic
 ---
 
 <div align="center">
-  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:7117EA,100:00C9FF&text=GitHub%20Stats&fontAlignY=48&desc=the%20numbers&descSize=16&descAlignY=82&animation=fadeIn" alt="GitHub Stats"/>
+  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:7117EA,100:00C9FF&text=GitHub%20Stats&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
@@ -237,7 +237,7 @@ The place where everything began. Five years of learning the alphabet, multiplic
 ---
 
 <div align="center">
-  <img width="460" src="https://capsule-render.vercel.app/api?type=text&height=55&fontSize=36&color=0:00C9FF,100:92FE9D&text=Get%20In%20Touch&fontAlignY=48&desc=say%20hi&descSize=16&descAlignY=82&animation=fadeIn" alt="Contact"/>
+  <img width="500" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=110&color=0:00C9FF,100:92FE9D&text=Get%20In%20Touch&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Contact"/>
 </div>
 
 ### 📬 *say hi*
