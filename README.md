@@ -246,8 +246,7 @@ The place where everything began. Five years of learning the alphabet, multiplic
 
 </div>
 
+<!-- ===================== ANIMATED FOOTER (self-hosted, never breaks) ===================== -->
 <div align="center">
-
-### ⭐ Thanks for visiting — let's build something cool together! ⭐
-
+  <img width="100%" src="https://raw.githubusercontent.com/aashishbharti04/aashishbharti04/main/assets/footer.svg" alt="Thanks for visiting!"/>
 </div>
