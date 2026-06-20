@@ -1,3 +1,8 @@
+<!-- ===================== ANIMATED HEADER (self-hosted, never breaks) ===================== -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/aashishbharti04/aashishbharti04/main/assets/header.svg" alt="Aashish (Khadush) — Generative AI Specialist, Vibe Coder, Content Creator"/>
+</div>
+
 <div align="center">
 
 <!-- ===================== HERO ===================== -->
